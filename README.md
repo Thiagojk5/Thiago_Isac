@@ -1,4 +1,3 @@
-# Thiago_Isac
 # Sistema de Arquivos
 
 Sistema em Java (console e Swing) que cadastra arquivos, mantém a lista
